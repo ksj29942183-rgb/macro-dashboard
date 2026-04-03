@@ -1,0 +1,7 @@
+# This file contains all required dependencies for the backend
+fastapi
+uvicorn
+requests
+python-dotenv
+pydantic
+# Add other dependencies as needed.
